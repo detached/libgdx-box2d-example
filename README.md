@@ -1,3 +1,3 @@
 # libgdx-box2d-example
 
-There are many libgdx and box2d examples out there but not a single one showing how to plump everything together in a clean manner.
+I haven't found a good example of how to use libgdx with box2d without putting the physics code into the model. So here is my.
